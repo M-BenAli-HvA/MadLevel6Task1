@@ -1,0 +1,8 @@
+<ImageView android:id="@+id/ivColor"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    tools:layout_editor_absoluteX="34dp"
+    tools:layout_editor_absoluteY="85dp"
+    tools:srcCompat="@tools:sample/avatars"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" />
